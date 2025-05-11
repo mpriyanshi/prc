@@ -1,4 +1,4 @@
 library(readxl)
-CreditLimit<- read_excel("E:/221281/Dataset-CreditLimit.xlsx")
+CreditLimit<- read_excel("Dataset-CreditLimit.xlsx")
 View(CreditLimit)
 
